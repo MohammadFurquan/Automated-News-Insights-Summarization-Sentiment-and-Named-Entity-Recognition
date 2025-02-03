@@ -1,0 +1,1 @@
+# Automated-News-Insights-Summarization-Sentiment-and-Named-Entity-Recognition
